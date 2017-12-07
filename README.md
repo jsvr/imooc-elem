@@ -1,1 +1,1 @@
-# imooc-elem
+# study-imooc-elem
