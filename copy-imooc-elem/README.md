@@ -1,6 +1,6 @@
 # copy-imooc-elem
 
-> dianshang
+> A Vue.js project
 
 ## Build Setup
 

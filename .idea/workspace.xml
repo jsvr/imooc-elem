@@ -2,17 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32c0efd-75bb-43f7-a86b-5c63f5c545a9" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lixiaowan.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/imooc-elem.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖01_商品页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖02_商品页_公告及优惠信息_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖03_商品页_购物车详情_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖04_商品页面_商品详情_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖05_评价页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖06_商家页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/icon_@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/icon_@3x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_24px_@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_24px_@3x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_36px_@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_36px_@3x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_48px_@2x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/PSD/star_48px_@3x.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/brand@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/brand@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/bulletin@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/bulletin@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/decrease_4@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/discount_4@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/guarantee_4@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/invoice_4@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_1@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_2@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_3@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/special_4@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_half@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_half@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_off@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_off@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_on@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star24_on@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_half@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_half@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_off@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_off@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_on@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star36_on@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_half@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_half@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_off@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_off@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_on@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/img/star48_on@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖01_商品页.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖02_商品页_公告及优惠信息.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖03_商品页_购物车详情.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖04_商品页面_商品详情.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖05_评价页.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/外卖06_商家页.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖01_商品页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖02_商品页_公告及优惠信息_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖03_商品页_购物车详情_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖04_商品页面_商品详情_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖05_评价页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/标注/外卖06_商家页_spec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖01_商品页.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖02_商品页_公告及优惠信息.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖03_商品页_购物车详情.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖04_商品页面_商品详情.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖05_评价页.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/PSD/外卖06_商家页.mkm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/add_circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/arrow_lift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/check_circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/favorite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/keyboard_arrow_right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/remove_circle_outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/shopping_cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/thumb_down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copy-imooc-elem/resource/SVG/thumb_up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/imooc-elem.iml" afterPath="$PROJECT_DIR$/.idea/imooc-elem.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-imooc-elem/README.md" afterPath="$PROJECT_DIR$/copy-imooc-elem/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-imooc-elem/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/copy-imooc-elem/build/webpack.base.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-imooc-elem/package.json" afterPath="$PROJECT_DIR$/copy-imooc-elem/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-imooc-elem/src/App.vue" afterPath="$PROJECT_DIR$/copy-imooc-elem/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-imooc-elem/src/components/HelloWorld.vue" afterPath="$PROJECT_DIR$/copy-imooc-elem/src/components/HelloWorld.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v0hivb/src/App.vue" afterPath="$PROJECT_DIR$/v0hivb/src/App.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,63 +128,167 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/copy-imooc-elem/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="00-Vue-cli.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="536">
-                <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/copy-imooc-elem/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.59411764">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/router/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="47" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/App.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="247">
+                  <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="00-项目文件介绍.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/03-webpack/00-项目文件介绍.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="38">
+                    <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="01-webpack-配置.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/03-webpack/01-webpack-配置.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="0">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="00-图片准备.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/04-项目资源准备/00-图片准备.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="114">
+                    <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/v0hivb/src/common/js/util.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="399">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="01-字体图标制作.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/04-项目资源准备/01-字体图标制作.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="0">
+                    <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="00-项目目录设计.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/05-项目目录设计/00-项目目录设计.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="76">
+                    <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.vue" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/components/header/header.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="380">
+                  <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="00-Components-use.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/markdown/02-Vue/00-Components-use.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="57">
+                    <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="00-Components-use.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/markdown/02-Vue/00-Components-use.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="285">
+                    <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+                    <folding />
+                  </first_editor>
+                  <second_editor>
+                    <js_state />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="markdown" />
+        <option value="Vue File" />
       </list>
     </option>
   </component>
@@ -93,17 +299,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md" />
+        <option value="$PROJECT_DIR$/copy-imooc-elem/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/v0hivb/src/App.vue" />
+        <option value="$PROJECT_DIR$/markdown/02-Vue-components/00-Components-use.md" />
+        <option value="$PROJECT_DIR$/copy-imooc-elem/src/App.vue" />
+        <option value="$PROJECT_DIR$/markdown/03-webpack/00-项目文件介绍.md" />
+        <option value="$PROJECT_DIR$/copy-imooc-elem/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/markdown/04-项目资源准备/00-图片准备.md" />
+        <option value="$PROJECT_DIR$/v0hivb/src/common/js/util.js" />
+        <option value="$PROJECT_DIR$/markdown/04-项目资源准备/01-字体图表制作.md" />
+        <option value="$PROJECT_DIR$/markdown/05-项目目录设计/00-项目目录设计.md" />
+        <option value="$PROJECT_DIR$/copy-imooc-elem/src/components/header/header.vue" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/copy-imooc-elem/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -125,7 +345,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,21 +371,153 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="header" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copy-imooc-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/copy-imooc-elem/node_modules/eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="standardjs.codestyle.accepted" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/copy-imooc-elem" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/markdown" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,6 +571,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -254,24 +611,28 @@
       <option name="presentableId" value="Default" />
       <updated>1512483338338</updated>
       <workItem from="1512483339635" duration="178000" />
-      <workItem from="1512483521372" duration="1984000" />
+      <workItem from="1512483521372" duration="3009000" />
+      <workItem from="1512883295342" duration="1504000" />
+      <workItem from="1512885114719" duration="271000" />
+      <workItem from="1512886198204" duration="6000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2162000" />
+    <option name="totallyTimeSpent" value="10962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12236287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18022905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -295,6 +656,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="969">
+            <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/02-Vue/00-Components-use.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/copy-imooc-elem/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -311,8 +714,8 @@
     <entry file="file://$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="536">
-            <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>
@@ -325,14 +728,327 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/02-Vue/00-Components-use.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/README.md" />
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/README.md" />
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/00-Vue-cli/00-Vue-cli.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="659">
+            <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#140#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/02-Vue/00-Components-use.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/static/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/static/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/03-webpack/00-项目文件介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-956">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/build/dev-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/04-项目资源准备.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/03-webpack/01-webpack-配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/04-项目资源准备/00-图片准备.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0hivb/src/common/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/04-项目资源准备/01-字体图标制作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/05-项目目录设计/00-项目目录设计.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy-imooc-elem/src/components/header/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
