@@ -46,10 +46,9 @@
       'v-header': header
     }
   };
-
 </script>
 
-<style lang="stylus" rel="stylesheet/stylus">
+<style type="text/stylus" lang="stylus" rel="stylesheet/stylus">
   @import "./common/stylus/mixin.styl"
 
   .tab
