@@ -16,7 +16,7 @@ data() {
 created() {
    this.$http.get('/api/ratings').then((response) => {
      response = response.body;
-     if (response.errno === ERR_OK) {
+     if (response.errno === ERR_OK) {     
        this.ratings = response.data;
        this.$nextTick(() => {
          this.scroll = new BScroll(this.$els.ratings, {

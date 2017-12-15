@@ -14,19 +14,19 @@ Vue.use(VueResource);
 let app = Vue.extend(App);
 
 let router = new VueRouter({
-	linkActiveClass: 'active'
+  linkActiveClass: 'active'
 });
 
 router.map({
-	'/goods': {
-		component: goods
-	},
-	'/ratings': {
-		component: ratings
-	},
-	'seller': {
-		component: seller
-	}
+  '/goods': {
+    component: goods
+  },
+  '/ratings': {
+    component: ratings
+  },
+  'seller': {
+    component: seller
+  }
 });
 
 router.start(app, '#app');
