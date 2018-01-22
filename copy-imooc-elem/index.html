@@ -2,8 +2,30 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width,
+          user-scalable=no,
+          initial-scale=1.0,
+          maximum-scale=1.0,
+          minimum-scale=1.0"/>
     <title>copy-imooc-elem</title>
+    <script>
+      var html = document.getElementsByTagName('html')[0];
+      console.log(html);
+      if(html){
+        var w = window.innerWidth;
+        var fontSize = (w>640?640:w)/640*100;
+        html.style.fontSize = fontSize + 'px';
+      }
+      // 响应
+      window.onload = function(){
+        window.onresize = function(){
+          var w = window.innerWidth;
+          var fontSize = (w>640?640:w)/640*100;
+          html.style.fontSize = fontSize + 'px';
+        }
+      }
+    </script>
   </head>
   <body>
     <div id="app"></div>
